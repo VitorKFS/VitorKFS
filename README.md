@@ -16,5 +16,7 @@
   <a href="https://www.javascript.com/" rel="nofollow">
   <img alt="JavaScript" width="32em" height="32em" src="https://cdn.discordapp.com/attachments/721221375922143265/866440747812519976/javascript.png" style="max-width:100%;">
   </a>
-
+  
+<a href="https://discord.com/channels/@me/866453096384954378" rel="nofollow">
 <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&amp;logo=discord&amp;logoColor=white&amp;color=%237289DA&amp;label=&amp;message=KFS%239611" style="max-width:100%;">
+</a>
