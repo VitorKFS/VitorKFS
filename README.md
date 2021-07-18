@@ -29,5 +29,5 @@
 </a>
 
 <a href="https://www.youtube.com/channel/UCDpHKrT1TpQemcsJDOVhxVw" rel="nofollow">
-<img  width="128em" height="64em" alt="Discord" src="https://img.shields.io/static/v1?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=%23FF0000&amp;label=&amp;message=KFS" style="max-width:100%;">
+<img  width="96em" height="48em" alt="Discord" src="https://img.shields.io/static/v1?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=%23FF0000&amp;label=&amp;message=KFS" style="max-width:100%;">
 </a>
