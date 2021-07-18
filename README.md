@@ -11,7 +11,7 @@
   <img alt="HTML" width="32em" height="32em" src="https://cdn.discordapp.com/attachments/721221375922143265/866441972432764938/logo-2582748_640.png" style="max-width:100%;">
   </a>
   <a href="https://www.w3.org/standards/webdesign/htmlcss.html" rel="nofollow">
-  <img alt="CSS" width="32em" height="32em" src="https://cdn.discordapp.com/attachments/721221375922143265/866441910066216979/logo-2582747_1280.png" style="max-width:100%;">
+  <img alt="CSS" width="32em" height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css" style="max-width:100%;">
   </a>
   <a href="https://www.javascript.com/" rel="nofollow">
   <img alt="JavaScript" width="32em" height="32em" src="https://cdn.discordapp.com/attachments/721221375922143265/866440747812519976/javascript.png" style="max-width:100%;">
