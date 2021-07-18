@@ -32,4 +32,4 @@
   <img alt="Discord" src="https://img.shields.io/static/v1?style=flat&amp;logo=youtube&amp;logoColor=white&amp;color=%23FF0000&amp;label=&amp;message=KFS" style="max- width:100%;">
   </a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorKFS&show_icons=true&theme=dracula"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorKFS&layout=compact)](https://github.com/vitorKFS/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitorKFS&count_private=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorKFS&layout=compact)](https://github.com/vitorKFS/github-readme-stats)
