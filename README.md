@@ -25,7 +25,7 @@
   </a>
  <p></p>
 <a href="https://discord.com/channels/@me/866453096384954378" rel="nofollow">
-<img alt="Discord" src="https://img.shields.io/static/v1?style=flat&amp;logo=discord&amp;logoColor=white&amp;color=%237289DA&amp;label=&amp;message=KFS%239611" style="max-width:100%;">
+<img width="64em" height="32em" alt="Discord" src="https://img.shields.io/static/v1?style=flat&amp;logo=discord&amp;logoColor=white&amp;color=%237289DA&amp;label=&amp;message=KFS%239611" style="max-width:100%;">
 </a>
 
 <a href="https://www.youtube.com/channel/UCDpHKrT1TpQemcsJDOVhxVw" rel="nofollow">
