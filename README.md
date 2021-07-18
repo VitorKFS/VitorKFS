@@ -1,9 +1,9 @@
 <h1 align="center">👋 Welcome to my Profile!</h1>
 
-<h3 align="center">- 👋 Hello, my name is Vitor, I am 16 years old!;</h3>
-<h3 align="center">- 🏡 I live in Brazil!;</h3>
+<h3>- 👋 Hello, my name is Vitor, I am 16 years old!;</h3>
+<h3>- 🏡 I live in Brazil!;</h3>
   
-<h3 align="center">- 📚 Studying technologies:<br></h3>
+<h3>- 📚 Studying technologies:<br></h3>
   <a href="https://www.lua.org/" rel="nofollow">
   <img alt="LUA" width="64em" height="64em" src="https://cdn.discordapp.com/attachments/721221375922143265/866441822951833660/1024px-Lua-Logo.png" style="max-width:100%;">
   </a>
