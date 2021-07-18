@@ -11,6 +11,9 @@
   <a href="https://www.lua.org/" rel="nofollow">
   <img alt="LUA" width="64em" height="64em" src="https://cdn.discordapp.com/attachments/721221375922143265/866441822951833660/1024px-Lua-Logo.png" style="max-width:100%;">
   </a>
+  <a href="https://www.mysql.com/" rel="nofollow">
+  <img alt="MYSQL" width="64em" height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%;">
+  </a>
   <a href="https://www.w3.org/standards/webdesign/htmlcss.html" rel="nofollow">
   <img alt="HTML" width="64em" height="64em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="max-width:100%;">
   </a>
