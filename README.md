@@ -8,3 +8,8 @@
   ▶ SQL;<br>
   ▶ HTML;<br>
   ▶ CSS;<br>
+  <a href="https://www.javascript.com/" rel="nofollow">
+        <img alt="JavaScript" width="32em" height="32em" src="/jaimeadf/jaimeadf/raw/main/assets/javascript.svg" style="max-width:100%;">
+    </a>
+
+<img alt="JavaScript" width="32em" height="32em" src="/jaimeadf/jaimeadf/raw/main/assets/javascript.svg" style="max-width:100%;">
