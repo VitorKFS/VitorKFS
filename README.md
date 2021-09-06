@@ -9,7 +9,7 @@
   📚 Studying technologies:<br>
   
   <a href="https://www.lua.org/" rel="nofollow">
-  <img alt="LUA" width="32em" height="32em" src="https://cdn.discordapp.com/attachments/721221375922143265/866441822951833660/1024px-Lua-Logo.png" style="max-width:100%;">
+  <img alt="LUA" width="32em" height="32em" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2Fc%2Fcf%2FLua-Logo.svg%2F1024px-Lua-Logo.svg.png&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ALua-Logo.svg&tbnid=bHr7p1yWdcC_iM&vet=12ahUKEwiomce9iOvyAhV2s5UCHa87Ci8QMygAegUIARC6AQ..i&docid=baw6gvsMNTiYGM&w=1024&h=1024&q=lua%20logo&ved=2ahUKEwiomce9iOvyAhV2s5UCHa87Ci8QMygAegUIARC6AQ" style="max-width:100%;">
   </a>
   <a href="https://www.mysql.com/" rel="nofollow">
   <img alt="MYSQL" width="32em" height="32em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width:100%;">
